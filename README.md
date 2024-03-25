@@ -3,7 +3,11 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 
 ### Project Overview
