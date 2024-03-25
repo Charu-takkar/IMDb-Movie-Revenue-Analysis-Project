@@ -1,5 +1,10 @@
 # IMDb Movie Revenue Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This data analysis project aims to provide insights into the Gross Revenue in Movie Industry over the past years.By analyzing various aspects of the Movie data, we seek to identify trends,make data-driven recommendations, and gain deeper understanding of the industry performance over the past years.
@@ -44,7 +49,7 @@ The analysis results are summarised as follows:
 
 Based on analysis, we recommend following actions:
 
-- Invest in Action, Comedy and Adventure genre to maximize revenue overall.
-- In PG-13 rated movies, focus on expanding in Action genre.
-- In R rated movies, focus on expanding in both Comedy and Action genre.
-- In PG rated movies, focus should be on Adventure genre.
+- Invest in Action,Adventure genre to maximize revenue overall (In last 5 years(2010-2015), Action genre contributed almost 45% of total Gross Revenue, Adventure 25% and Comedy 13% in contrast to 1990s with 37% of Gross Revenue coming from Action genre movies,26% comedy, 16% Drama and 14% Adventure for PG, PG-13,G and R rated films). 
+- For PG-13 rated movies, focus on expanding in Action genre.
+- For R rated movies, focus on expanding in both Comedy and Action genre.
+- For PG rated movies, focus should be on Adventure genre.
