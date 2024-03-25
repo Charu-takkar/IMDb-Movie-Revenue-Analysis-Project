@@ -14,6 +14,11 @@
 
 This data analysis project aims to provide insights into the Gross Revenue in Movie Industry over the past years.By analyzing various aspects of the Movie data, we seek to identify trends,make data-driven recommendations, and gain deeper understanding of the industry performance over the past years.
 
+
+
+
+<img width="256" alt="Imdb Movie Dashboard Screenshot" src="https://github.com/Charu-takkar/Revenue-Analysis-Project/assets/164625645/35b09097-7103-4341-863f-fda18faa5ff0">
+
 ### Data Sources
 
 IMDb Movie Data: The primary dataset used for this analysis is the "003 IMDb-Movie-Database.xlsx" file , containing detailed information about each Movie made made from 1920 to 2015 by color/B&W,language and country.
