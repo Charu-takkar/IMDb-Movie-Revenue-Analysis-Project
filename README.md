@@ -11,6 +11,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the Gross Revenue in Movie Industry over the past years.By analyzing various aspects of the Movie data, we seek to identify trends,make data-driven recommendations, and gain deeper understanding of the industry performance over the past years.
 
@@ -63,3 +64,9 @@ Based on analysis, we recommend following actions:
 - For PG-13 rated movies, focus on expanding in Action genre.
 - For R rated movies, focus on expanding in both Comedy and Action genre.
 - For PG rated movies, focus should be on Adventure genre.
+
+😄
+
+💻
+
+
